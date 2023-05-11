@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/pnrmmt/frontendmentor-newbie13)
+- Live Site URL: [Live Site URL](https://pnrmmt.github.io/frontendmentor-newbie13/)
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 - CSS Grid
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/pnrmmt)
+- Frontend Mentor - [@pnrmmt](https://www.frontendmentor.io/profile/pnrmmt)
